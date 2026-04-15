@@ -88,14 +88,10 @@ cardioia_fase2.ipynb
 
 ## 🎥 Vídeo
 
-Inserir link do vídeo aqui
+https://youtu.be/qJRQuNxWsuY
 
 ---
 
-## 👥 Integrantes
-
-Nome – RM  
-Nome – RM  
 
 ---
 

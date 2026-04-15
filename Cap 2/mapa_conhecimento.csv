@@ -1,0 +1,41 @@
+﻿Sintoma1,Sintoma2,DoencaAssociada
+dor no peito,aperto no torax,Infarto
+opressao toracica,pressao no peito,Infarto
+dor toracica intensa,peso no peito,Infarto
+suor frio,nausea com dor no peito,Infarto
+dor no braco esquerdo,irradiacao para o braco,Infarto
+falta de ar,dificuldade para respirar,Angina
+respiracao curta,dispneia,Angina
+cansaco ao esforco,dor no peito ao esforco,Angina
+desconforto ao caminhar,aperto ao fazer esforco,Angina
+palpitacoes,batimentos irregulares,Arritmia
+coracao acelerado,taquicardia,Arritmia
+desmaio com palpitações,ritmo cardiaco irregular,Arritmia
+tontura,fraqueza,Hipotensao
+visao escurecendo,sensacao de desmaio,Hipotensao
+pressao baixa,mal estar ao levantar,Hipotensao
+inchaco nas pernas,inchaco nos tornozelos,Insuficiencia Cardiaca
+fadiga,cansaco constante,Insuficiencia Cardiaca
+cansaco em repouso,falta de ar ao deitar,Insuficiencia Cardiaca
+edema,inchaco persistente,Insuficiencia Cardiaca
+azia,queimacao no estomago,Refluxo
+queimacao apos refeicao,gosto amargo na boca,Refluxo
+dor no peito apos comer,refluxo gastrico,Refluxo
+ansiedade,aperto no peito emocional,Ansiedade
+respiracao ofegante por ansiedade,taquicardia emocional,Ansiedade
+desconforto em situacoes de estresse,nervosismo com palpitações,Ansiedade
+dor muscular,dor ao toque,Dor Muscular
+dor apos exercicio,sensibilidade local,Dor Muscular
+dor no peito ao mover o tronco,dor na costela ao toque,Dor Muscular
+dor leve nas costas,incômodo lombar,Baixo Risco / Observacao
+mal estar leve,fadiga leve,Baixo Risco / Observacao
+desconforto no peito,sem piora ao esforco,Baixo Risco / Observacao
+dor no ombro,tensao muscular,Baixo Risco / Observacao
+dor cervical,rigidez no pescoco,Baixo Risco / Observacao
+dor nas costas apos esforco,postura inadequada,Baixo Risco / Observacao
+estufamento,gases,Desconforto Gastrointestinal
+peso no estomago,indigestao,Desconforto Gastrointestinal
+tosse frequente,dor ao respirar fundo,Irritacao Respiratoria
+chiado no peito,falta de ar leve,Irritacao Respiratoria
+cansaco por falta de sono,sonolencia,Fadiga / Rotina
+estresse,cansaco mental,Fadiga / Rotina
